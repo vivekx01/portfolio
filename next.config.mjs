@@ -8,6 +8,7 @@ const nextConfig = {
       path: '',
     },
     assetPrefix: './',
+    distDir: 'dist'
   };
   
   export default nextConfig;
