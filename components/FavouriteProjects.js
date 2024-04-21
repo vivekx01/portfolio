@@ -41,7 +41,7 @@ export default function FavouriteProjects() {
           >
             <div className="relative overflow-hidden">
               <img
-                src="/investocrypt.png"
+                src="/portfolio/investocrypt.png"
                 alt="investocrypt"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
@@ -61,7 +61,7 @@ export default function FavouriteProjects() {
             <div className="relative overflow-hidden">
               {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
               <img
-                src="/blockchain-voting-system.png"
+                src="/portfolio/blockchain-voting-system.png"
                 alt="blockchain-voting-system"
                 className="transform hover:scale-125 transition duration-2000 ease-out"
               />
@@ -81,7 +81,7 @@ export default function FavouriteProjects() {
             <div className="relative overflow-hidden shadow-2xl">
               {/* <div className="overlay absolute inset-0 bg-black bg-opacity-70 z-10"></div> */}
               <img
-                src="/scrapmart.png"
+                src="/portfolio/scrapmart.png"
                 alt="scrapmart"
                 className="transform hover:scale-125 transition duration-2000 ease-out object-cover shadow-2xl"
               />

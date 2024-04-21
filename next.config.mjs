@@ -3,7 +3,7 @@
 */
 const nextConfig = {
   output: "standalone",
-  // basePath: '/musicnext',
+  basePath: '/portfolio', // Set your base path here
   images: {
     unoptimized: true,
   }

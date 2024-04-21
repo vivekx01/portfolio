@@ -2,7 +2,7 @@ const userData = {
   githubUsername: "vivekx01",
   name: "Vivek Shukla",
   designation: "Software Engineer",
-  avatarUrl: "/avatar.jpg",
+  avatarUrl: "/portfolio/avatar.jpg",
   email: "viveks95944@gmail.com",
   phone: "+91 9619037203",
   address: "Mumbai, Maharashtra, India.",
@@ -10,17 +10,17 @@ const userData = {
     {
       title: "Investocrypt",
       link: "https://investo-crypt.web.app",
-      imgUrl: "/investocrypt.png",
+      imgUrl: "/portfolio/investocrypt.png",
     },
     {
       title: "Blockchain Voting System",
       link: "https://blockchain-election.web.app/",
-      imgUrl: "/blockchain-voting-system.png",
+      imgUrl: "/portfolio/blockchain-voting-system.png",
     },
     {
       title: "Scrapmart",
       link: "https://scrapmart.onrender.com",
-      imgUrl: "/scrapmart.png",
+      imgUrl: "/portfolio/scrapmart.png",
     },
     
   ],
@@ -32,8 +32,8 @@ const userData = {
       `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself :P`,
       `I've been coding in React, Angular,  Node.js, Express, Django, FastAPI, MongoDB, PostgreSQL, Bootstrap.`,
     ],
-    currentProject: "Investocrypt",
-    currentProjectUrl: "https://investo-crypt.web.app",
+    currentProject: "Learning Next JS",
+    currentProjectUrl: "https://github.com/vivekx01?tab=repositories",
   },
   experience: [
     {
@@ -72,8 +72,6 @@ const userData = {
     twitter: "https://twitter.com/vivekx01",
     linkedin: "https://linkedin.com/in/vivekx01",
     github: "https://github.com/vivekx01",
-    facebook: "https://facebook.com/",
-    peerlist: "https://peerlist.io/",
   },
 };
 
