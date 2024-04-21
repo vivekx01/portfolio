@@ -22,14 +22,14 @@ export default function ContainerBlock({ children, ...customMeta }) {
         <meta content={meta.description} name="description" />
         <meta
           property="og:url"
-          content={`https://yourwebsite.com${router.asPath}`}
+          content={`https://vivekx01.github.io/portfolio/`}
         />
         <link
           rel="canonical"
-          href={`https://yourwebsite.com${router.asPath}`}
+          href={`https://vivekx01.github.io/portfolio/`}
         />
         <meta property="og:type" content={meta.type} />
-        <meta property="og:site_name" content="Vivek Shuklav" />
+        <meta property="og:site_name" content="Vivek Shukla" />
         <meta property="og:description" content={meta.description} />
         <meta property="og:title" content={meta.title} />
         <meta property="og:image" content={meta.image} />
