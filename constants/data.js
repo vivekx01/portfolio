@@ -26,9 +26,9 @@ const userData = {
   ],
   about: {
     title:
-      "I'm a software engineer that loves exploring different technologies",
+      "I'm an aspiring software engineer that loves exploring different technologies",
     description: [
-      `I've been learning full-stack application since past 5 years of my academic life.`,
+      `I've been learning full-stack application development for past 4 years now.`,
       `After learning HTML and struggling with CSS, I came up with a brilliant idea of using bootstrap so that I don't have to style everything by myself :P`,
       `I've been coding in React, Angular,  Node.js, Express, Django, FastAPI, MongoDB, PostgreSQL, Bootstrap.`,
     ],
