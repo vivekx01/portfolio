@@ -58,7 +58,7 @@ const userData = {
       desc: "Major in Computer Science with an aggregate CGPA of 9.67. Nobody asks this but it's okay.",
     },
     {
-      title: "HSC",
+      title: "Class XII - Science",
       company: "GN Khalsa College, Mumbai.",
       year: "2019",
       companyLink: "https://gnkhalsa.edu.in/",
