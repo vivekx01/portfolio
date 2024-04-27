@@ -41,7 +41,7 @@ const userData = {
       company: "DronaHQ",
       year: "2024",
       companyLink: "https://dronahq.com",
-      desc: "Developing, Debugging and fixing issues in the product. Mainly wokring with Vanilla JavaScript",
+      desc: "Developing, Debugging and fixing issues in the product. Mainly working with Vanilla JavaScript",
     },
     {
       title: "Master of Computer Applications",
